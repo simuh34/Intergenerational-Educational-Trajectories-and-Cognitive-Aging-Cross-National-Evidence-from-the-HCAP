@@ -48,8 +48,6 @@ Analyses were conducted in R. To ensure compatibility with the provided scripts,
 
 * **R version**: 4.2.0 or higher
 * **Core Packages**: `tidyverse`, `haven`, `survey`, `lme4` 
-
-==================================================
  
 ### CONTACT
 
