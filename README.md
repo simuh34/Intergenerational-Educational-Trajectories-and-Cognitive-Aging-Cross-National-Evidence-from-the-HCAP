@@ -16,7 +16,7 @@ The analysis covers five major international longitudinal studies:
 
 The repository is organized by country-specific study folders and core scripts for cross-national visualization and sensitivity testing:
 
-#### COUNTRY FOLDERS
+* **COUNTRY FOLDERS**
 
 CHARLS/  : Scripts and metadata for the China Health and Retirement Longitudinal Study
 ELSA/    : Scripts and metadata for the English Longitudinal Study of Ageing
@@ -24,7 +24,7 @@ HRS/     : Scripts and metadata for the US Health and Retirement Study
 LASI/    : Scripts and metadata for the Longitudinal Aging Study in India
 MHAS/    : Scripts and metadata for the Mexican Health and Aging Study
 
-#### CORE ANALYSIS AND VISUALIZATION SCRIPTS
+* **CORE ANALYSIS AND VISUALIZATION SCRIPTS**
 
 harmonized education-plot.R         : Global harmonization and education visualization
 percentile rank of education-plot.R : Relative education ranking analysis across cohorts
