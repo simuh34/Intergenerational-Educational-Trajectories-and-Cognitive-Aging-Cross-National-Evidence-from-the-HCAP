@@ -1,6 +1,6 @@
 # Intergenerational Education Trajectories and Cognitive Aging: Cross-National Evidence from the Harmonized Cognitive Assessment Protocol
 
-# OVERVIEW
+## OVERVIEW
 
 This repository contains the replication code for: Intergenerational Education Trajectories and Cognitive Aging: Cross-National Evidence from the Harmonized Cognitive Assessment Protocol.
 
