@@ -15,14 +15,23 @@ The analysis covers five major international longitudinal studies:
  
 ### REPOSITORY STRUCTURE
 
-The repository is organized by country/study folders, each containing its own specific analysis pipeline:
+REPOSITORY STRUCTURE
 
-data_analysis/
-    HRS/    : Scripts and metadata for the US Health and Retirement Study
-    ELSA/   : Scripts and metadata for the English Longitudinal Study of Ageing
-    MHAS/   : Scripts and metadata for the Mexican Health and Aging Study
-    CHARLS/ : Scripts and metadata for the China Health and Retirement Longitudinal Study
-    LASI/   : Scripts and metadata for the Longitudinal Aging Study in India
+The repository is organized by country-specific study folders and core scripts for cross-national visualization and sensitivity testing:
+
+COUNTRY FOLDERS
+
+CHARLS/  : Scripts and metadata for the China Health and Retirement Longitudinal Study
+ELSA/    : Scripts and metadata for the English Longitudinal Study of Ageing
+HRS/     : Scripts and metadata for the US Health and Retirement Study
+LASI/    : Scripts and metadata for the Longitudinal Aging Study in India
+MHAS/    : Scripts and metadata for the Mexican Health and Aging Study
+
+CORE ANALYSIS AND VISUALIZATION SCRIPTS
+
+harmonized education-plot.R         : Global harmonization and education visualization
+percentile rank of education-plot.R : Relative education ranking analysis across cohorts
+sensitivity analysis.R              : Robustness checks and sensitivity protocols
 
 ==================================================
  
