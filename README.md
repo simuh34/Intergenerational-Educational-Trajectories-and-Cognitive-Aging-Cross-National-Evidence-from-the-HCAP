@@ -1,6 +1,6 @@
 # Intergenerational Education Trajectories and Cognitive Aging: Cross-National Evidence from the Harmonized Cognitive Assessment Protocol
 
-## OVERVIEW
+### OVERVIEW
 
 This repository contains the replication code for: Intergenerational Education Trajectories and Cognitive Aging: Cross-National Evidence from the Harmonized Cognitive Assessment Protocol.
 
@@ -13,7 +13,7 @@ The analysis covers five major international longitudinal studies:
 
 ==================================================
  
- REPOSITORY STRUCTURE
+### REPOSITORY STRUCTURE
 
 The repository is organized by country/study folders, each containing its own specific analysis pipeline:
 
@@ -26,7 +26,7 @@ data_analysis/
 
 ==================================================
  
- DATA AVAILABILITY
+### DATA AVAILABILITY
 
 The analysis utilizes harmonized data across international cohorts within the Harmonized Cognitive Assessment Protocol (HCAP) framework.
 
@@ -38,7 +38,7 @@ The analysis utilizes harmonized data across international cohorts within the Ha
 
 ==================================================
  
- SOFTWARE REQUIREMENTS
+### SOFTWARE REQUIREMENTS
 
 Analyses were conducted in R. To ensure compatibility with the provided scripts, the following is required:
 
@@ -47,6 +47,6 @@ Analyses were conducted in R. To ensure compatibility with the provided scripts,
 
 ==================================================
  
- CONTACT
+### CONTACT
 
 For questions about code or dashboard, contact the corresponding author.
