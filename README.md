@@ -1,4 +1,4 @@
-# Intergenerational Education Trajectories and Cognitive Aging: Cross-National Evidence from the Harmonized Cognitive Assessment Protocol
+# Educational Mobility, Gender, and Cognitive Aging Across Countries: Evidence from the Harmonized Cognitive Assessment Protocol
 
 ### OVERVIEW
 
